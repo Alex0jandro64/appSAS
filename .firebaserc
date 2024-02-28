@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "appcitassas-76061": {
+      "hosting": {
+        "appSAS": [
+          "appcitassas"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "appcitassas-76061"
+  }
+}

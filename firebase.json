@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "appSAS",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
